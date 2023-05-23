@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
             super.viewDidLoad()
             // Set the default background color to white
-            view.backgroundColor = .white
+            view.backgroundColor = .cyan
         }
         
         override func traitCollectionDidChange(_ previousTraitCollection: UITraitCollection?) {
